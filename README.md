@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in the Data Science program @ Codeup!
+## I’m currently working in the Data Science program @ Codeup!
 - 🌱 I’m currently learning many valuable tools and techniques.
 - 📫 How to reach me: casey.andrew.m@gmail.com
